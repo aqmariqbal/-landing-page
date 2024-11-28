@@ -33,17 +33,17 @@ export const companyInfo = [
 export const pricingInfo = [
   {
     image: Icon1,
-    name: "Bitcoin",
-    price: "31,020.564 $",
+    name: "Sensex",
+    price: "Rs 79,446.45",
   },
   {
     image: Icon2,
-    name: "Ethereum",
-    price: "4.4668 $",
+    name: "Nifty50",
+    price: "Rs 24,043.40",
   },
   {
     image: Icon3,
-    name: "Ripple",
-    price: "0.6549 $",
+    name: "NiftyBank",
+    price: "Rs 52,054.80",
   },
 ];
